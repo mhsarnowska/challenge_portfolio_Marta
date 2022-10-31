@@ -29,7 +29,7 @@ Myślę, że funkcjonalności są dość intuicyjne, niemniej moim zdaniem
 - przy podaniu błędnego formatu maila, nie udaje się zapisać gracza, ale nie podświetla się nam okienko z mailem na czerwono- aplikacja nie odsyła nas gdzie zrobiliśmy błąd, po prostu nie możemy zapisać, ale nie wiemy dlaczego,
 - w przypadku gdy pole oznaczone gwiazdką zostawimy puste- podświetla się ono na czerwono i pojawia się informacja o uzupełnieniu wymaganego pola (co jest ok), ale nie przesuwa się w to miejsce samoistnie kursor- musimy przescrollować się ręcznie i odnaleźć to pole,
 - można dodać nr telefonu składający się nawet z jednej cyfry (powinna być minimalna liczba znaków i maksymalna),
-- można zapisać wagę, wzrost z ujemnymi wartościami lub bardzo wysoką (znów brak ograniczeń), 
+- można zapisać wagę, wzrost z ujemnymi wartościami lub bardzo wysokimi (znów brak ograniczeń), 
 - w polach dot. dodania linków do portali społecznościowych zawodników- istnieje możliwość zapisu z wykorzystaniem jakiejkolwiek strony, a nie mającej w swoim url strony z nazwą kontetnego portalu: tj. facebook, 90 minut, łączy nas piłka, youtube, lub zwykłego tekstu, a nie linku,
 - przyciski SUMBIT i CLEAR są w języku angielskim, a reszta informacji w języku polskim,
 - **EDYCJA GRACZA**:
