@@ -24,10 +24,11 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 4.  Większość aplikacji jest intuicyjna, ale np. interfejs nie oferuje wszystkich funkcjonalności na stronie głównej- brak zakładek "MECZE" i "RAPORTY". Nie ma możliwości przejścia do nich ze strony głównej- trzeba wejść w graczy, później kliknąć na wybranego i dopiero wówczas jesteśmy w stanie przeglądać zakładki mecze i raporty. Zabiera to dużo czasu, jeśli ktoś chce szybko przejrzeć np. ostatnie raporty. Jest to nieintuicyjne. 
 5. Znalazłam sporo błędów, oczywiście polegam tylko na swojej intuicji, oto one:
 - **DODAWANIE NOWEGO GRACZA**:
+- jest możliwość zapisania gracza, wpisując w polu imię i nazwisko cyfry i znaki specjalne (intuicyjnie oczekujemy liter),
 -  udało się dodać gracza urodzonego w bieżącym roku- brak ograniczeń co do wieku zapisywanych zawodników,
 - przy podaniu błędnego formatu maila, nie udaje się zapisać gracza, ale nie podświetla się nam okienko z mailem na czerwono- aplikacja nie odsyła nas gdzie zrobiliśmy błąd, po prostu nie możemy zapisać, ale nie wiemy dlaczego,
 - w przypadku gdy pole oznaczone gwiazdką zostawimy puste- podświetla się ono na czerwono i pojawia się informacja o uzupełnieniu wymaganego pola (co jest ok), ale nie przesuwa się w to miejsce samoistnie kursor- musimy przescrollować się ręcznie i odnaleźć to pole,
-- można dodać nr telefonu składający się nawet z jednej cyfry (powinna być minimalna liczba znaków i maksymalna),
+- można dodać nr telefonu składający się nawet z jednej cyfry (intuicyjnie powinna być minimalna liczba znaków i maksymalna),
 - można zapisać wagę, wzrost z ujemnymi wartościami lub bardzo wysokimi (znów brak ograniczeń), 
 - w polach dot. dodania linków do portali społecznościowych zawodników- istnieje możliwość zapisu z wykorzystaniem jakiejkolwiek strony, a nie mającej w swoim url strony z nazwą kontetnego portalu: tj. facebook, 90 minut, łączy nas piłka, youtube, lub z wykorzystaniem zwykłego tekstu, a nie linku,
 - przyciski SUMBIT i CLEAR są w języku angielskim, a reszta informacji w języku polskim,
