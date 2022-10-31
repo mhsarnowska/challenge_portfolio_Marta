@@ -29,10 +29,10 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - w przypadku gdy pole oznaczone gwiazdką zostawimy puste- podświetla się ono na czerwono i pojawia się informacja o uzupełnieniu wymaganego pola (co jest ok), ale nie przesuwa się w to miejsce samoistnie kursor- musimy przescrollować się ręcznie i odnaleźć to pole,
 - można dodać nr telefonu składający się nawet z jednej cyfry (powinna być minimalna liczba znaków i maksymalna),
 - można zapisać wagę, wzrost z ujemnymi wartościami lub bardzo wysokimi (znów brak ograniczeń), 
-- w polach dot. dodania linków do portali społecznościowych zawodników- istnieje możliwość zapisu z wykorzystaniem jakiejkolwiek strony, a nie mającej w swoim url strony z nazwą kontetnego portalu: tj. facebook, 90 minut, łączy nas piłka, youtube, lub zwykłego tekstu, a nie linku,
+- w polach dot. dodania linków do portali społecznościowych zawodników- istnieje możliwość zapisu z wykorzystaniem jakiejkolwiek strony, a nie mającej w swoim url strony z nazwą kontetnego portalu: tj. facebook, 90 minut, łączy nas piłka, youtube, lub z wykorzystaniem zwykłego tekstu, a nie linku,
 - przyciski SUMBIT i CLEAR są w języku angielskim, a reszta informacji w języku polskim,
 - **EDYCJA GRACZA**:
-- w polu edycji gracza przycisk CLEAR nie działa jak należy- moim zdaniem dnane powinny zostać wymazane, usunięte z wszystkich pól, a tak się nie dzieje,
+- w polu edycji gracza przycisk CLEAR nie działa jak należy- moim zdaniem dane powinny zostać wymazane, usunięte z wszystkich pól, a tak się nie dzieje,
 - istnieje możliwość wpisania w polu pozycja gracza, imię, nazwisko - liczb, co w mojej intuicji powinno być ograniczone do liter,
 - **ZAKŁADKA GRACZE**:
 - po najechaniu kursorem na danego zawodnika, podświetla się rekord, ale nie ma kursora, wskazującego, że można w niego kliknąć,
@@ -43,6 +43,7 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - nie jest oznaczone gwiazdką WOJEWóDZTWO, a okazuje się że te dane jest wymagane do stworzenia raportu i ostatecznie i tak musimy je wypełnić (strata czasu),
 - widok raportu wymaga przesuwania w prawo i lewo, strona się nie mieści, co jest annoying,
 - lista raportów i meczów zawodnika i ich widok na urządzeniach mobilnych się rozjeżdża,
+- przycisk służący zapisaniu raportu jest w języku angielskim, reszta informacji po polsku,
 -**PRZYPOMINANIE HASŁA**
 - przy wprowadzeniu w formularzu przypominania hasła adresu email z błędnym formatem maila- formularz przechodzi dalej (brak wyświetalnego błędu),
 **INNE*:
