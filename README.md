@@ -19,8 +19,7 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 -  wyszukiwania rekordów z pomocą okna wyszukiwania,
 -  zmienić język aplikacji na angielski,
 -  skontaktować się z działem IT,
--  przypomnieć hasło do aplikacji z wykorzystaniem odpowiedniego formularza,
-Myślę, że funkcjonalności są dość intuicyjne, niemniej moim zdaniem 
+-  przypomnieć hasło do aplikacji z wykorzystaniem odpowiedniego formularza;
 3. Interfejs jest dość prosty, ale dla mnie przez to nie wygląda profesjonalnie. Część "buttonów" jest w języku polskim, ale są i te w języku angielskim- od razu rzuca mi się to w oczy i odrzuca. Osobiście uważam, że nad tą aplikacją należałoby jeszcze sporo popracować. 
 4.  Większość aplikacji jest intuicyjna, ale np. interfejs nie oferuje wszystkich funkcjonalności na stronie głównej- brak zakładek "MECZE" i "RAPORTY". Nie ma możliwości przejścia do nich ze strony głównej- trzeba wejść w graczy, później kliknąć na wybranego i dopiero wówczas jesteśmy w stanie przeglądać zakładki mecze i raporty. Zabiera to dużo czasu, jeśli ktoś chce szybko przejrzeć np. ostatnie raporty. Jest to nieintuicyjne. 
 5. Znalazłam sporo błędów, oczywiście polegam tylko na swojej intuicji, oto one:
