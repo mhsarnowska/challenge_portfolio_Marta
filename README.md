@@ -41,12 +41,12 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - **MECZE I RAPORTY**:
 - dodanie meczu- jest możliwe ręczne wpisanie drużyny zawodnika, moim zdaniem te dane powinny się same zaciągać z systemu, w innym razie można wpisać randomową drużynę,
 - nie jest oznaczone gwiazdką WOJEWóDZTWO, a okazuje się że te dane jest wymagane do stworzenia raportu i ostatecznie i tak musimy je wypełnić (strata czasu),
-- widok raportu wymaga przesuwania w prawo i lewo, strona się nie mieści, co jest annoying,
+- widok raportu wymaga przesuwania w prawo i lewo, strona się nie mieści, co jest irytujące,
 - lista raportów i meczów zawodnika i ich widok na urządzeniach mobilnych się rozjeżdża,
-- przycisk służący zapisaniu raportu jest w języku angielskim, reszta informacji po polsku,
--**PRZYPOMINANIE HASŁA**
-- przy wprowadzeniu w formularzu przypominania hasła adresu email z błędnym formatem maila- formularz przechodzi dalej (brak wyświetalnego błędu),
+- przycisk służący zapisaniu raportu (SAVE) jest w języku angielskim, reszta informacji po polsku,
+- **PRZYPOMINANIE HASŁA**
+- przy wprowadzeniu w formularzu przypominania hasła adresu email z błędnym formatem maila- formularz przechodzi dalej (brak wyświetlanego błędu),
 **INNE*:
-- niska wydajność strony,
-- część funkcjonalności jest nieresponsywna;
+- niska wydajność strony apki,
+- część funkcjonalności aplikacji jest nieresponsywna;
  
