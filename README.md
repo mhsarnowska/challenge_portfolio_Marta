@@ -1,6 +1,6 @@
 # Task 1
 ## Subtask 1
-Jeszcze nic nie zdobyłam :D 
+Tylko 8 :disappointed: 
 ## Subtask 3
 Zdecydowałam się na udział w tym challengu, ponieważ chcę wejść do branży IT. Chcę przede wszystkim znaleźć w tym miejscu dodatkową dawkę motywacji i wsparcia (girl power :muscle:).  
 Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało się moim centrum wszechświata, ale po satelitach, w postaci głosu mojego zajawionego swoją pracą męża programisty, krążyły tematy devowe. No i jestem.
@@ -9,7 +9,7 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 1. Aplikacja służy do dodawania i edycji zawodników piłki nożnej oraz tworzenia raportów z odbytych meczów, w celu śledzenia statystyk zawodników i weryfikacji ich osiągnięć. 
 2. Aplikacja pozwala użytkownikowi:
 - zalogować się oraz wylogować,
-- dodania nowego zawodnika (m.in. danych personalnych, klubu), 
+- dodać nowego zawodnika (m.in. dane personalne, klubu), 
 -  edytować już dodanego zawodnika,
 -  edytować widok listy zawodników modyfikując wyświetlane kolumny,
 -  sortować listę z graczami w różnych wariantach wydrukować listę zawodników wraz z potrzebnymi danymi,
