@@ -12,11 +12,12 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - dodać nowego zawodnika (m.in. dane personalne, klubu), 
 -  edytować już dodanego zawodnika,
 -  edytować widok listy zawodników modyfikując wyświetlane kolumny,
--  sortować listę z graczami w różnych wariantach wydrukować listę zawodników wraz z potrzebnymi danymi,
+-  sortować listę z graczami w różnych wariantach,
+-  wydrukować listę zawodników wraz z potrzebnymi danymi,
 -  przefiltrować dane w celu szybszego odnalezienia szukanego rekordu,
 -  dodać nowy mecz, wyświetlić oraz edytować istniejący,
 -  dodać nowy raport, wyświetlić oraz edytować istniejący,
--  wyszukiwania rekordów z pomocą okna wyszukiwania,
+-  wyszukać interesujących nas danych z pomocą okna wyszukiwania (search),
 -  zmienić język aplikacji na angielski,
 -  skontaktować się z działem IT,
 -  przypomnieć hasło do aplikacji z wykorzystaniem odpowiedniego formularza;
@@ -30,7 +31,7 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - w przypadku gdy pole oznaczone gwiazdką zostawimy puste- podświetla się ono na czerwono i pojawia się informacja o uzupełnieniu wymaganego pola (co jest ok), ale nie przesuwa się w to miejsce samoistnie kursor- musimy przescrollować się ręcznie i odnaleźć to pole,
 - można dodać nr telefonu składający się nawet z jednej cyfry (intuicyjnie powinna być minimalna liczba znaków i maksymalna),
 - można zapisać wagę, wzrost z ujemnymi wartościami lub bardzo wysokimi (znów brak ograniczeń), 
-- w polach dot. dodania linków do portali społecznościowych zawodników- istnieje możliwość zapisu z wykorzystaniem jakiejkolwiek strony, a nie mającej w swoim url strony z nazwą kontetnego portalu: tj. facebook, 90 minut, łączy nas piłka, youtube, lub z wykorzystaniem zwykłego tekstu, a nie linku,
+- w polach dot. dodania linków do portali społecznościowych zawodników- istnieje możliwość zapisu z wykorzystaniem jakiejkolwiek strony, a nie mającej w swoim url strony z nazwą konkretnego portalu: tj. facebook, 90 minut, łączy nas piłka, youtube, lub z wykorzystaniem zwykłego tekstu, a nie linku,
 - przyciski SUMBIT i CLEAR są w języku angielskim, a reszta informacji w języku polskim,
 - **EDYCJA GRACZA**:
 - w polu edycji gracza przycisk CLEAR nie działa jak należy- moim zdaniem dane powinny zostać wymazane, usunięte z wszystkich pól, a tak się nie dzieje,
@@ -40,7 +41,7 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - kolumny mecze i raporty nie dają sie posortować,
 - po użyciu funkcji sortowania zawodników i odświeżenia strony, widok aplikacji nie wraca do widoku podstawowego- takiego, jaki był przed sortowaniem,
 - **MECZE I RAPORTY**:
-- dodanie meczu- jest możliwe ręczne wpisanie drużyny zawodnika, moim zdaniem te dane powinny się same zaciągać z systemu, w innym razie można wpisać randomową drużynę,
+- dodanie meczu- jest możliwe ręczne wpisanie drużyny zawodnika, moim zdaniem te dane powinny się same zaciągać z systemu, w innym razie można wpisać randomową nazwę drużyny,
 - nie jest oznaczone gwiazdką WOJEWóDZTWO, a okazuje się że te dane jest wymagane do stworzenia raportu i ostatecznie i tak musimy je wypełnić (strata czasu),
 - widok raportu wymaga przesuwania w prawo i lewo, strona się nie mieści, co jest irytujące,
 - lista raportów i meczów zawodnika i ich widok na urządzeniach mobilnych się rozjeżdża,
