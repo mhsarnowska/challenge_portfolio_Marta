@@ -48,7 +48,7 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - przycisk służący zapisaniu raportu (SAVE) jest w języku angielskim, reszta informacji po polsku,
 - **PRZYPOMINANIE HASŁA**
 - przy wprowadzeniu w formularzu przypominania hasła adresu email z błędnym formatem maila- formularz przechodzi dalej (brak wyświetlanego błędu),
-- **INNE*:
+- **INNE**:
 - niska wydajność strony apki,
 - część funkcjonalności aplikacji jest nieresponsywna;
  
