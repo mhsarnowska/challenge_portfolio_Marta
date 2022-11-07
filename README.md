@@ -51,4 +51,9 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - **INNE**:
 - niska wydajność strony apki,
 - część funkcjonalności aplikacji jest nieresponsywna;
+
+# TASK 2
+## Subtask 3
+Po co piszemy przypadki testowe? 
+Przypadki testowe pomagają nam w uporządkowaniu pracy testera i w ogóle projektu- każdy ma wówczas wgląd do napsianych przypadków testowych- jest to klarowne, pozwala zaoszczędzić czas i zorganizować pracę "załogi" testerskiej. Pisanie negatywych i pozytywnych przypadków testowych pozwala także na szybsze ujawnienie błędów np. w wymaganiach- już na wstępie możemy sprawdzić ewentualne niedociągnięcia. Posiadanie solidnej bazy przypadków testowych pozwala na większe pokrycie aplikacji testami. 
  
