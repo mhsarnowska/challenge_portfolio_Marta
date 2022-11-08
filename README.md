@@ -53,8 +53,12 @@ Przez ostatnie trzy lata zajmowałam się w domu dzieckiem, więc ono stało si�
 - część funkcjonalności aplikacji jest nieresponsywna;
 
 # TASK 2
+## Subtask 1
+[Link do Subtask 1 :right:] (https://docs.google.com/spreadsheets/d/1yuJOs-o187MOSptn9et904AFGXrbO_Jol-mDryyt5Bs/edit?usp=share_link)
+## Subtask 2
 ## Subtask 3
 *Po co piszemy przypadki testowe?* 
 
-Przypadki testowe dzięki swojej szczegółowości opartej na wymaganiach i historyjkach użytkownika pomagają testerom na wyłapanie ewentualnych błędów już na początkowym etapie projektu. Tego typu usystematyzowanie i skupienie na detalach pozwala lepiej i efektywniej zorganizować pracę "załogi" testerskiej. W związku z tym są również niezwykle przydatne dla nowych członków zespołu deweloperskiego- zyskujemy dzięki nim cenny czas. Posiadanie solidnej bazy przypadków testowych pozwala na większe pokrycie aplikacji testami, a także łatwiejszą, w późniejszym etapie, ewentualną automatyzację testów. 
+Przypadki testowe piszemy, aby spisać różne możliwości działania różnych funkcjonalności danej aplikacji. Przypadki testowe dzięki swojej szczegółowości opartej na wymaganiach i historyjkach użytkownika pomagają testerom na wyłapanie ewentualnych błędów już na początkowym etapie projektu. Tego typu usystematyzowanie i skupienie na detalach pozwala lepiej i efektywniej zorganizować pracę "załogi" testerskiej. W związku z tym są również niezwykle przydatne dla nowych członków zespołu deweloperskiego- dzięki ich obecności zyskujemy w cenny czas. Posiadanie solidnej bazy przypadków testowych pozwala na większe pokrycie aplikacji testami, a także łatwiejszą, w późniejszym etapie, ewentualną automatyzację testów. 
  
+## Subtask 4 
