@@ -63,4 +63,12 @@ Link do Subtask 2 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/11Pw9lO
 Przypadki testowe piszemy, aby spisać różne możliwości działania różnych funkcjonalności danej aplikacji. Przypadki testowe dzięki swojej szczegółowości opartej na wymaganiach i historyjkach użytkownika pomagają testerom na wyłapanie ewentualnych błędów już na początkowym etapie projektu. Tego typu usystematyzowanie i skupienie na detalach pozwala lepiej i efektywniej zorganizować pracę "załogi" testerskiej. W związku z tym są również niezwykle przydatne dla nowych członków zespołu deweloperskiego- dzięki ich obecności zyskujemy w cenny czas. Posiadanie solidnej bazy przypadków testowych pozwala na większe pokrycie aplikacji testami, a także łatwiejszą, w późniejszym etapie, ewentualną automatyzację testów. 
  
 ## Subtask 4 
-Link do Subtask 4 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1QAVT1efhWFnMcftReLW2xENqr0ZtzQmGaYpEV2tDEfY/edit?usp=share_link )
+Link do Subtask 4 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1QAVT1efhWFnMcftReLW2xENqr0ZtzQmGaYpEV2tDEfY/edit?usp=sharing ) 
+
+# TASK 3
+## Subtask 1
+Link do Subtask 1 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1yuJOs-o187MOSptn9et904AFGXrbO_Jol-mDryyt5Bs/edit?usp=sharing ) i [CLICK]( https://docs.google.com/spreadsheets/d/11Pw9lOGn2LcB2KxHsUfxg-DeP8Fq301m35tPAdSF_0g/edit?usp=sharing ) 
+## Subtask 2
+Link do Subtask 2 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/17jtE317oE7hNeXUQTkf_WzJIjjldZq3Myv7Rd2IBa1A/edit?usp=sharing )
+## Subtask 3
+Link do Subtask 3 ➡️ [CLICK]( https://docs.google.com/document/d/1lo_maTNg7KiM8VjF3BQigYcbPUTlr1Pa_UYbMKPxoS8/edit?usp=sharing )
