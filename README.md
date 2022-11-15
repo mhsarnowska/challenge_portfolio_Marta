@@ -72,3 +72,5 @@ Link do Subtask 1 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1yuJOs-
 Link do Subtask 2 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/17jtE317oE7hNeXUQTkf_WzJIjjldZq3Myv7Rd2IBa1A/edit?usp=sharing )
 ## Subtask 3
 Link do Subtask 3 ➡️ [CLICK]( https://docs.google.com/document/d/1lo_maTNg7KiM8VjF3BQigYcbPUTlr1Pa_UYbMKPxoS8/edit?usp=sharing )
+## Subtask 4
+Link do Subtask 4 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/15_H9O7Xx_K3Qk4nVZ38r-euK-_VvYPT9ggYhnGK8ogE/edit?usp=sharing )
