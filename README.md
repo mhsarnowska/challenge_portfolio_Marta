@@ -84,15 +84,19 @@ Link do Subtask 2 ➡️ [CLICK](  )
 *Do czego służy aplikacja Focusly, jaki jest jej cel?* 
 
 Celem tej aplikacji jest promowanie dbania o zdrowie psychiczne, wprowadzenia w swoje życie równowagi, za pomocą praktyki uważności i innych podobnych technik. Poprzez udostępnienie kursów selfcare, artykułów na temat mindfulness, oraz muzyki relaksacyjnej, aplikacja chce nas nauczyć jak znaleźć czas dla siebie, dosłownie pokazuje nam jak wziąć głęboki oddech i nauczyć się odpuszczać. 
+
 *Kto ma być użytkownikiem końcowym aplikacji?*
 
 Każdy człowiek, który chce zadbać o swoje zdrowie psychniczne, każda osoba, która chce nauczyć sobie radzić ze stresem, która chce zgłębić praktykę uważności.
+
 *Czy według Ciebie aplikacja jest user friendly?*
 
 Według mnie jest przyjazna dla użytkownika, doczepiłabym się do kilku rzeczy: np. o funkcję wylogowania, która jest ukryta hen daleko, albo brak tłumaczenia niektórych treści dla użytkownika anglojęzycznego, niemniej, nie trzeba wielkiej filozofii, żeby się w niej odnaleźć. Użyta czcionka jest przejrzysta, generalnie interfejs przyjemny w odbiorze. 
+
 *Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*
 
 Skoro jest to aplikacja w temacie rozwoju osobistego, dodałabym tam funkcję journala. Tak by użytkownik mógł na przykład zapisywać swoje odczucia przed praktyką i po praktyce (lub przeczytaniu artykułu etc). Często osoby praktykujące medytację wcale nie chcą śledzić statystyk co do ilości minut, kolejnych z rzędu odhaczonych dni spędzonych na praktyce, ale chcą widzieć zmianę. Zmianę w sobie. Więc uważam, że miejsce na spisanie refleksji byłby dobrym pomysłem.
+
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
 W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urządzeń, na których może być używana aplikacja (róznego rodzaju smartfony, tablety). Testowanie platform systemowych iOS i Android to minimum. W przypadku aplikacji internetowej łatwiej o "odpalenie" devtoolsów, co jest dla mnie zaletą, w moim przypadku również szybciej jest wpisać szukany adres do przeglądarki niż odszukanie danej apki w sklepie, zainstalowanie i dopiero rozpoczęcie testów eksploracyjnych. 
