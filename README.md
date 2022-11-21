@@ -76,10 +76,8 @@ Link do Subtask 3 ➡️ [CLICK]( https://docs.google.com/document/d/1lo_maTNg7K
 Link do Subtask 4 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/15_H9O7Xx_K3Qk4nVZ38r-euK-_VvYPT9ggYhnGK8ogE/edit?usp=sharing )
 
 # TASK 4
-## Subtask 1
-Link do Subtask 1 ➡️ [CLICK]( )
-## Subtask 2
-Link do Subtask 2 ➡️ [CLICK](  )
+## Subtask 1 i 2
+Link do Subtask 1 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1Vlo8O26AIucmPU_-fa18ZU9qVKG9aHAUFVCnWsIGO_I/edit?usp=sharing )
 ## Subtask 3
 *Do czego służy aplikacja Focusly, jaki jest jej cel?* 
 
@@ -100,3 +98,6 @@ Skoro jest to aplikacja w temacie rozwoju osobistego, dodałabym tam funkcję jo
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
 W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urządzeń, na których może być używana aplikacja (róznego rodzaju smartfony, tablety). Testowanie platform systemowych iOS i Android to minimum. W przypadku aplikacji internetowej łatwiej o "odpalenie" devtoolsów, co jest dla mnie zaletą, w moim przypadku również szybciej jest wpisać szukany adres do przeglądarki niż odszukanie danej apki w sklepie, zainstalowanie i dopiero rozpoczęcie testów eksploracyjnych. 
+
+## Subtask 4
+Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
