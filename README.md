@@ -77,7 +77,7 @@ Link do Subtask 4 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/15_H9O7
 
 # TASK 4
 ## Subtask 1 i 2
-Link do Subtask 1 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1Vlo8O26AIucmPU_-fa18ZU9qVKG9aHAUFVCnWsIGO_I/edit?usp=sharing )
+Link do Subtask 1 i 2 ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1Vlo8O26AIucmPU_-fa18ZU9qVKG9aHAUFVCnWsIGO_I/edit?usp=sharing )
 ## Subtask 3
 *Do czego służy aplikacja Focusly, jaki jest jej cel?* 
 
