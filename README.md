@@ -97,7 +97,7 @@ Skoro jest to aplikacja w temacie rozwoju osobistego, dodałabym tam funkcję jo
 
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
-W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urządzeń, na których może być używana aplikacja (róznego rodzaju smartfony, tablety). Testowanie platform systemowych iOS i Android to minimum, więc wydaje mi się, że jest tutaj potrzebna większa ilość pracy, ale jest ona bardziej różnorodna. W przypadku aplikacji internetowej łatwiej o "odpalenie" devtoolsów, co jest dla mnie sporą zaletą. Osobiście uważam, że szybciej jest wpisać szukany adres do przeglądarki niż odszukanie danej apki w sklepie, zainstalowanie i dopiero rozpoczęcie testów eksploracyjnych- więc wydaje mi się, że łatwiej i szybciej przeprowadzić testy eksploracyjne aplikacji internetowej.
+W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urządzeń, na których może być używana aplikacja (róznego rodzaju smartfony, tablety). Testowanie platform systemowych iOS i Android to minimum, więc wydaje mi się, że jest tutaj potrzebna większa ilość pracy, ale jest ona bardziej różnorodna. W przypadku aplikacji internetowej łatwiej o "odpalenie" devtoolsów, co jest dla mnie sporą zaletą. Osobiście uważam, że szybciej jest wpisać szukany adres do przeglądarki niż odszukać daną apkę w sklepie, zainstalować i dopiero rozpocząć testy eksploracyjne- więc wydaje mi się, że łatwiej i szybciej przeprowadzić testy eksploracyjne aplikacji internetowej.
 
 ## Subtask 4
 Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
