@@ -93,11 +93,11 @@ Według mnie jest przyjazna dla użytkownika, doczepiłabym się do kilku rzeczy
 
 *Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*
 
-Skoro jest to aplikacja w temacie rozwoju osobistego, dodałabym tam funkcję journala. Tak by użytkownik mógł na przykład zapisywać swoje odczucia przed praktyką i po praktyce (lub przeczytaniu artykułu etc). Często osoby praktykujące medytację wcale nie chcą śledzić statystyk co do ilości minut, kolejnych z rzędu odhaczonych dni spędzonych na praktyce, ale chcą widzieć zmianę. Zmianę w sobie. Więc uważam, że miejsce na spisanie refleksji byłby dobrym pomysłem.
+Skoro jest to aplikacja w temacie rozwoju osobistego, dodałabym tam funkcję journala. Tak by użytkownik mógł na przykład zapisywać swoje odczucia przed praktyką i po praktyce (lub przeczytaniu artykułu etc). Często osoby praktykujące medytację wcale nie chcą śledzić statystyk co do ilości minut, kolejnych z rzędu odhaczonych dni spędzonych na praktyce, ale chcą widzieć zmianę. Zmianę w sobie. Więc uważam, że miejsce na spisanie refleksji byłoby dobrym pomysłem.
 
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
-W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urządzeń, na których może być używana aplikacja (róznego rodzaju smartfony, tablety). Testowanie platform systemowych iOS i Android to minimum. W przypadku aplikacji internetowej łatwiej o "odpalenie" devtoolsów, co jest dla mnie zaletą, w moim przypadku również szybciej jest wpisać szukany adres do przeglądarki niż odszukanie danej apki w sklepie, zainstalowanie i dopiero rozpoczęcie testów eksploracyjnych. 
+W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urządzeń, na których może być używana aplikacja (róznego rodzaju smartfony, tablety). Testowanie platform systemowych iOS i Android to minimum, więc wydaje mi się, że jest tutaj potrzebna większa ilość pracy, ale jest ona bardziej różnorodna. W przypadku aplikacji internetowej łatwiej o "odpalenie" devtoolsów, co jest dla mnie sporą zaletą. Osobiście uważam, że szybciej jest wpisać szukany adres do przeglądarki niż odszukanie danej apki w sklepie, zainstalowanie i dopiero rozpoczęcie testów eksploracyjnych- więc wydaje mi się, że łatwiej i szybciej przeprowadzić testy eksploracyjne aplikacji internetowej.
 
 ## Subtask 4
 Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
