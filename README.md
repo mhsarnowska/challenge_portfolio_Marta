@@ -104,7 +104,7 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 # TASK 5
 ## Subtask 1
-![sql (2)](https://user-images.githubusercontent.com/116061924/203976587-445a6b25-bf24-496c-bc95-b3f9ee05fcb1.png)
+![sql (3)](https://user-images.githubusercontent.com/116061924/203980831-e2bc18ac-d0d9-4505-ba85-69261eabc91c.png)
 
 
 
