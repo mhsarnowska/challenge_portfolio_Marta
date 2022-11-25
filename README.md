@@ -104,6 +104,8 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 # TASK 5
 ## Subtask 1
+![sql (1)](https://user-images.githubusercontent.com/116061924/203975725-d0f99e29-871b-456d-a908-4d5f14ab3ef6.png)
+
 
 ## Subtask 2
 SELECT * FROM actors
