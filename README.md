@@ -171,6 +171,6 @@ SELECT * FROM customers WHERE email IS NULL
 
 SELECT * FROM movies WHERE price > 9 AND movie_id BETWEEN 2 AND 8
 
-![Uploading Bez tytułu.png…]()
+![Bez tytułu](https://user-images.githubusercontent.com/116061924/203963263-0109cc8c-8648-4670-a090-1627af6c115c.png)
 
 
