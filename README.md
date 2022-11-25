@@ -101,3 +101,43 @@ W przypadku aplikacji natywnej, musimy zwrócić uwagę na różnorodność urz�
 
 ## Subtask 4
 Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
+
+# TASK 5
+## Subtask 1
+
+## Subtask 2
+SELECT * FROM actors
+
+![subtask1](https://user-images.githubusercontent.com/116061924/203952282-d42d1e36-0e0a-4179-84e6-c61145c45cd0.png)
+
+
+## Subtask 3
+**_1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._**
+
+SELECT * FROM actors ORDER BY surname ASC
+
+![subtask31](https://user-images.githubusercontent.com/116061924/203947459-c3a93b3f-5b72-4b99-91d5-e63d89a2f30a.png)
+
+**_2. Wyświetl film, który powstał w 2019 roku._**
+
+SELECT * FROM movies WHERE year_of_production= 2019
+
+![subtask32](https://user-images.githubusercontent.com/116061924/203948048-c6bc0a33-48d2-41c8-b2b0-96c6797a6066.png)
+
+**_3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._**
+
+SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999
+
+![nowe](https://user-images.githubusercontent.com/116061924/203950758-26091928-a972-4322-aa50-7f5d1f18fcd0.png)
+
+**_4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$_**
+
+SELECT title, price FROM movies WHERE price <7
+
+![price](https://user-images.githubusercontent.com/116061924/203951645-7aee2bcf-c064-4d65-ad60-3447985de136.png)
+
+**_5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._**
+
+SELECT * FROM actors WHERE actor_id>=4 AND actor_id<=7;
+
+![actors](https://user-images.githubusercontent.com/116061924/203956784-3e7887b1-56f8-41ab-af08-dac55e0bfded.png)
