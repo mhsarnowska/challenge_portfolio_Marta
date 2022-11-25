@@ -149,3 +149,24 @@ SELECT * FROM `customers` WHERE customer_id IN (2,4,6)
 
 ![CUST](https://user-images.githubusercontent.com/116061924/203957990-c67fdd35-4faf-4207-b740-22de6090fbd9.png)
 
+**_7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. _**
+
+SELECT * FROM `customers` WHERE customer_id IN (1,3,5)
+
+![ID](https://user-images.githubusercontent.com/116061924/203959207-73c9ae03-a240-4f9b-814d-33c63bd07445.png)
+
+**_8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._**
+
+SELECT * FROM `actors` WHERE name LIKE "%ANN%"
+
+![ann](https://user-images.githubusercontent.com/116061924/203960359-960e608b-09f9-486b-a2bc-ffb6ca00d08b.png)
+
+**_9. Wyświetl dane klienta, który nie ma podanego adresu email._**
+
+SELECT * FROM customers WHERE email IS NULL
+
+![null](https://user-images.githubusercontent.com/116061924/203961438-6a83dd2a-fbd4-42d8-9cb8-0af14f2c418d.png)
+
+
+
+
