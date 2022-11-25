@@ -167,6 +167,10 @@ SELECT * FROM customers WHERE email IS NULL
 
 ![null](https://user-images.githubusercontent.com/116061924/203961438-6a83dd2a-fbd4-42d8-9cb8-0af14f2c418d.png)
 
+**_10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._**
 
+SELECT * FROM movies WHERE price > 9 AND movie_id BETWEEN 2 AND 8
+
+![Uploading Bez tytułu.png…]()
 
 
