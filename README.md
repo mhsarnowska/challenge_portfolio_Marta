@@ -143,7 +143,7 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 **_5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._**
 
-`SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <= 7;
+`SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <= 7`
 
 ![actors](https://user-images.githubusercontent.com/116061924/203958131-c6e599e7-f3b6-4a36-bee7-5aa97c6a0959.png)
 
