@@ -147,12 +147,11 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 ![actors](https://user-images.githubusercontent.com/116061924/203958131-c6e599e7-f3b6-4a36-bee7-5aa97c6a0959.png)
 
-
 **_6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._**
 
-`SELECT * FROM customers WHERE customer_id IN (2,4,6)`
+`SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6`
 
-![CUST](https://user-images.githubusercontent.com/116061924/203957990-c67fdd35-4faf-4207-b740-22de6090fbd9.png)
+![FGDGDF](https://user-images.githubusercontent.com/116061924/204080190-58bf24a6-3e24-4693-bb3c-f5088f69014e.png)
 
 **_7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._**
 
@@ -165,7 +164,6 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 `SELECT * FROM actors WHERE name LIKE "AN%"`
 
 ![erw](https://user-images.githubusercontent.com/116061924/204079479-15cde182-abad-467d-8874-57c9ba5ca30e.png)
-
 
 **_9. Wyświetl dane klienta, który nie ma podanego adresu email._**
 
