@@ -156,15 +156,16 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 **_7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._**
 
-`SELECT * FROM `customers` WHERE customer_id IN (1,3,5)`
+`SELECT * FROM customers WHERE customer_id IN (1,3,5)`
 
 ![ID](https://user-images.githubusercontent.com/116061924/203959207-73c9ae03-a240-4f9b-814d-33c63bd07445.png)
 
 **_8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._**
 
-`SELECT * FROM `actors` WHERE name LIKE "An%"`
+`SELECT * FROM actors WHERE name LIKE "AN%"`
 
-![ann](https://user-images.githubusercontent.com/116061924/203960359-960e608b-09f9-486b-a2bc-ffb6ca00d08b.png)
+![erw](https://user-images.githubusercontent.com/116061924/204079479-15cde182-abad-467d-8874-57c9ba5ca30e.png)
+
 
 **_9. Wyświetl dane klienta, który nie ma podanego adresu email._**
 
