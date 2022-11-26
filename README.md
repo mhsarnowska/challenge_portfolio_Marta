@@ -109,7 +109,9 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 
 ## Subtask 2
-SELECT * FROM actors
+**_Wyświetl całą zawartość tabeli "actors"._**
+
+`SELECT * FROM actors`
 
 ![subtask1](https://user-images.githubusercontent.com/116061924/203952282-d42d1e36-0e0a-4179-84e6-c61145c45cd0.png)
 
@@ -117,62 +119,62 @@ SELECT * FROM actors
 ## Subtask 3
 **_1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._**
 
-SELECT * FROM actors ORDER BY surname ASC
+`SELECT * FROM actors ORDER BY surname ASC`
 
 ![subtask31](https://user-images.githubusercontent.com/116061924/203947459-c3a93b3f-5b72-4b99-91d5-e63d89a2f30a.png)
 
 **_2. Wyświetl film, który powstał w 2019 roku._**
 
-SELECT * FROM movies WHERE year_of_production= 2019
+`SELECT * FROM movies WHERE year_of_production= 2019`
 
 ![subtask32](https://user-images.githubusercontent.com/116061924/203948048-c6bc0a33-48d2-41c8-b2b0-96c6797a6066.png)
 
 **_3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._**
 
-SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999
+`SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999`
 
 ![nowe](https://user-images.githubusercontent.com/116061924/203950758-26091928-a972-4322-aa50-7f5d1f18fcd0.png)
 
 **_4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$_**
 
-SELECT title, price FROM movies WHERE price <7
+`SELECT title, price FROM movies WHERE price < 7`
 
 ![price](https://user-images.githubusercontent.com/116061924/203951645-7aee2bcf-c064-4d65-ad60-3447985de136.png)
 
 **_5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._**
 
-SELECT * FROM actors WHERE actor_id>=4 AND actor_id<=7;
+`SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <= 7;
 
 ![actors](https://user-images.githubusercontent.com/116061924/203958131-c6e599e7-f3b6-4a36-bee7-5aa97c6a0959.png)
 
 
 **_6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._**
 
-SELECT * FROM `customers` WHERE customer_id IN (2,4,6)
+`SELECT * FROM customers WHERE customer_id IN (2,4,6)`
 
 ![CUST](https://user-images.githubusercontent.com/116061924/203957990-c67fdd35-4faf-4207-b740-22de6090fbd9.png)
 
 **_7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._**
 
-SELECT * FROM `customers` WHERE customer_id IN (1,3,5)
+`SELECT * FROM `customers` WHERE customer_id IN (1,3,5)`
 
 ![ID](https://user-images.githubusercontent.com/116061924/203959207-73c9ae03-a240-4f9b-814d-33c63bd07445.png)
 
 **_8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._**
 
-SELECT * FROM `actors` WHERE name LIKE "%ANN%"
+`SELECT * FROM `actors` WHERE name LIKE "An%"`
 
 ![ann](https://user-images.githubusercontent.com/116061924/203960359-960e608b-09f9-486b-a2bc-ffb6ca00d08b.png)
 
 **_9. Wyświetl dane klienta, który nie ma podanego adresu email._**
 
-SELECT * FROM customers WHERE email IS NULL
+`SELECT * FROM customers WHERE email IS NULL`
 
 ![null](https://user-images.githubusercontent.com/116061924/203961438-6a83dd2a-fbd4-42d8-9cb8-0af14f2c418d.png)
 
 **_10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._**
 
-SELECT * FROM movies WHERE price > 9 AND movie_id BETWEEN 2 AND 8
+`SELECT * FROM movies WHERE price > 9 AND movie_id BETWEEN 2 AND 8`
 
 ![Bez tytułu](https://user-images.githubusercontent.com/116061924/203963263-0109cc8c-8648-4670-a090-1627af6c115c.png)
 
