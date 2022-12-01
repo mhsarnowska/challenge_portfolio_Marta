@@ -188,4 +188,15 @@ WHERE customer_id = 3`
 
 ![erwew](https://user-images.githubusercontent.com/116061924/205127824-02f06f58-dd4c-49a7-b315-8a4df98a63b2.png)
 
+**_12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej._**
+
+`SELECT name, email FROM customers JOIN sale ON customers.customer_id = sale.customer_id WHERE movie_id = 4`
+
+![j](https://user-images.githubusercontent.com/116061924/205134642-5c49d925-2620-42e7-870a-25e7c741c461.png)
+
+**_13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com._**
+
+`UPDATE customers SET email = "pati@mail.com" WHERE customer_id = 4`
+
+![yt](https://user-images.githubusercontent.com/116061924/205131810-71ea86bb-7c26-4ed4-bd07-f357a3368584.png)
 
