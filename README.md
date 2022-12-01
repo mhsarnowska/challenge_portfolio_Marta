@@ -177,4 +177,15 @@ Link do Subtask 4 ➡️ [CLICK]( https://qachallenge.atlassian.net/browse/QC )
 
 ![Bez tytułu](https://user-images.githubusercontent.com/116061924/203963263-0109cc8c-8648-4670-a090-1627af6c115c.png)
 
+# TASK 6
+
+## Subtask 1 
+**_11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd._**
+
+`UPDATE customers
+SET surname = "Miler"
+WHERE customer_id = 3`
+
+![erwew](https://user-images.githubusercontent.com/116061924/205127824-02f06f58-dd4c-49a7-b315-8a4df98a63b2.png)
+
 
