@@ -217,3 +217,34 @@ ADD COLUMN pseudonym VARCHAR(255)`
 SET pseudonym = CONCAT(LEFT(name, 2),RIGHT(surname, 1))`
 
 ![RWE](https://user-images.githubusercontent.com/116061924/205149587-b107b06c-ea1a-434a-a267-f17dfe97fe92.png)
+
+**_16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały._**
+
+`SELECT DISTINCT title FROM movies INNER JOIN sale ON movies.movie_id = sale.movie_id`
+
+![fsddfs](https://user-images.githubusercontent.com/116061924/205275001-d4c3bd77-7174-44ea-8b65-e391c8ca55f8.png)
+
+**_17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)_**
+
+`SELECT name FROM actors UNION SELECT name FROM customers WHERE name IS NOT NULL ORDER BY name ASC`
+
+![erwerw](https://user-images.githubusercontent.com/116061924/205276443-55088238-4a17-494c-9e49-3c18be7298b6.png)
+
+**_18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie)._**
+
+`UPDATE movies SET price = price + 2.5`
+
+![tre](https://user-images.githubusercontent.com/116061924/205278118-0ad83491-c3bf-43f6-bea9-36e5a998d24e.png)
+
+**_19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał._**
+
+`SELECT name, surname, title FROM cast INNER JOIN actors ON cast.actor_id = actors.actor_id INNER JOIN movies ON cast.movie_id = movies.movie_id WHERE actors.actor_id = 4`
+
+![tr](https://user-images.githubusercontent.com/116061924/205280089-949bf2a5-611b-47c3-94bb-61c32afc42c9.png)
+
+**_20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa._**
+
+`INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa")`
+
+![OOO](https://user-images.githubusercontent.com/116061924/205281344-18777820-eaaf-4aa3-b0f8-762c4739e15c.png)
+
