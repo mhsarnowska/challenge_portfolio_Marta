@@ -248,3 +248,6 @@ SET pseudonym = CONCAT(LEFT(name, 2),RIGHT(surname, 1))`
 
 ![OOO](https://user-images.githubusercontent.com/116061924/205281344-18777820-eaaf-4aa3-b0f8-762c4739e15c.png)
 
+
+## Subtask 2
+14!!! :muscle:
